@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="medida_imagem_principal">92dp</dimen>
+    <dimen name="margin_padding_padrao">16dp</dimen>
+</resources>

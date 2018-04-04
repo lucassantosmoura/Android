@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Layouts</string>
+    <string name="title_activity_exemplo_relative_layout">ExemploRelativeLayoutActivity</string>
+    <string name="relative_layout">Relative Layout</string>
+    <string name="jo_o_da_silva">João da Silva</string>
+    <string name="joaodasilva_fiap_com">joaodasilva@fiap.com</string>
+    <string name="email">joaodasilva@fiap.com.br</string>
+    <string name="sair">SAIR</string>
+    <string name="absolute_layout">Absolute Layout</string>
+    <string name="frame_layout">Frame Layout</string>
+    <string name="digite_seu_usu_rio">Digite seu usuário :</string>
+    <string name="ok">OK</string>
+    <string name="table_layout">Table Layout</string>
+    <string name="boatao">Boatao</string>
+    <string name="botao">Botao</string>
+</resources>
